@@ -1,6 +1,6 @@
 # Baozi Store API
 
-API REST desenvolvida para a disciplina de Desenvolvimento Web Back-End.
+API REST desenvolvida para fins de estudo Back-End.
 
 ## Sobre o projeto
 
